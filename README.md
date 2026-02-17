@@ -1,36 +1,26 @@
-# TwentyThreeArc Premium
+# TweentyThreeArc - Manga Catalog Starter Template
 
-Modern React manga reader template with:
+A polished React + Vite starter template for building a manga catalog or similar listing app.  
+Includes **search, genre filters, favorites with persistence, dark/light theme toggle, animations, hero banner, and a footer**.
 
-- Dark / Light theme toggle
-- Bookmark system
-- Modular architecture
-- Ready to deploy on StackBlitz, Vercel, Netlify, or your own server
+---
 
-## Installation
+## ✨ Features
+- 🔍 **Search**: Quickly find manga by title.
+- 🎭 **Genre Filter**: Filter results by genre.
+- ⭐ **Favorites**: Save manga to favorites (persisted with localStorage).
+- 🌗 **Dark/Light Theme Toggle**: Smooth transitions between themes.
+- 🎬 **Animations**: Fade-in effects and staggered card entry.
+- 📑 **Favorites Tab**: Switch between all manga and your saved favorites.
+- 🎨 **Hero Banner**: Gradient intro section with call-to-action.
+- 📜 **Footer**: Links and credits at the bottom.
 
-```bash
-npm install
-npm run dev
-```
+---
 
-Open the URL shown in your terminal (usually http://localhost:5173) to see the app.
+## 📦 Installation
 
-## Project Structure
-
-```
-twentythreearc-premium/
-├── package.json
-├── vite.config.js
-├── index.html
-├── README.md
-├── LICENSE.txt
-└── src/
-    ├── main.jsx
-    ├── App.jsx
-    └── styles.css
-```
-
-## License
-
-See LICENSE.txt for details.
+1. **Download & unzip** the project files.
+2. Open the folder in your terminal.
+3. Install dependencies:
+   ```bash
+   npm install
