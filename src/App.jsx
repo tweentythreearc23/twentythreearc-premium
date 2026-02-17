@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './App.css';
+import './styles.css';
 
 const mockMangaData = [
   { id: 1, title: 'My Hero Academia', description: 'A superhero manga', genre: 'Action' },
